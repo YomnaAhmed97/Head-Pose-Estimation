@@ -14,11 +14,13 @@ The regression model of predicting the 3 angles (pitch - yaw - roll) of head pos
   4) Detecting a random pic to validate the model from dataset.
 
 ## Conc:
+
+ ### Humans:
  - https://drive.google.com/file/d/1RwTD1i-DmeRcXFli0syQhl9FwazVI30f/view?usp=sharing
  
  - https://drive.google.com/file/d/1R0c40IpKj0w7qftg1swEiE-hb-PUg2qW/view?usp=sharing
 
- ### For animation:
+ ### Animation:
    - https://drive.google.com/file/d/1XTgzZG1BckDbh1RiaLAkxQ6lxp183B-m/view?usp=sharing
 
 
