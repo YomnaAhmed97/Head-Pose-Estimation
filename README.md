@@ -16,11 +16,10 @@ The regression model of predicting the 3 angles (pitch - yaw - roll) of head pos
 ## Conc:
 
 
-https://user-images.githubusercontent.com/32110361/174423335-f5147ab0-9103-4070-a744-3ecff8cab97a.mp4
 
 
+https://user-images.githubusercontent.com/32110361/174423427-08643058-e081-4080-ae0c-0723825e6ec9.mp4
 
-https://user-images.githubusercontent.com/32110361/174423343-fd6d1389-4c63-41e2-be0b-a2695fb8a037.mp4
 
 
 ## For more information about mediapipe:
