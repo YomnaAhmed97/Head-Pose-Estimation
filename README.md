@@ -17,6 +17,9 @@ The regression model of predicting the 3 angles (pitch - yaw - roll) of head pos
 
  ### Humans:
  - https://drive.google.com/file/d/1RwTD1i-DmeRcXFli0syQhl9FwazVI30f/view?usp=sharing
+
+  ![tryfromerror](https://user-images.githubusercontent.com/32110361/174423930-43d9402c-a33e-4315-84cc-991f73df14f1.gif)
+
  
  - https://drive.google.com/file/d/1R0c40IpKj0w7qftg1swEiE-hb-PUg2qW/view?usp=sharing
 
