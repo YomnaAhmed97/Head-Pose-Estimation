@@ -1,6 +1,6 @@
 # Head-Pose-Estimation
-In this project I've worked on AFLW2000-3D dataset which is a dataset of 2000 images that have been annotated with image-level 68-point 3D facial landmarks, with various head poses.
-By using mediapipe to extract faces landmarks which are 468 points in 3D, but we used X & Y only.
+In this project I've worked on AFLW2000-3D dataset which is a dataset of 2000 images that have been annotated with image-level 68-point 3D facial landmarks, with various head poses for humans and animations.
+By using mediapipe to extract faces landmarks which are 468 points in 3D, but we used x-axis & y-axis.
 The regression model of predicting the 3 angles (pitch - yaw - roll) of head pose estimation was XGboost Regressor.
 
 ## Data
@@ -17,6 +17,9 @@ The regression model of predicting the 3 angles (pitch - yaw - roll) of head pos
  - https://drive.google.com/file/d/1RwTD1i-DmeRcXFli0syQhl9FwazVI30f/view?usp=sharing
  
  - https://drive.google.com/file/d/1R0c40IpKj0w7qftg1swEiE-hb-PUg2qW/view?usp=sharing
+
+ ### For animation:
+   - https://drive.google.com/file/d/1XTgzZG1BckDbh1RiaLAkxQ6lxp183B-m/view?usp=sharing
 
 
 
