@@ -18,13 +18,20 @@ The regression model of predicting the 3 angles (pitch - yaw - roll) of head pos
  ### Humans:
  - https://drive.google.com/file/d/1RwTD1i-DmeRcXFli0syQhl9FwazVI30f/view?usp=sharing
 
-  ![tryfromerror](https://user-images.githubusercontent.com/32110361/174423930-43d9402c-a33e-4315-84cc-991f73df14f1.gif)
+  ![tryfromerror (1)](https://user-images.githubusercontent.com/32110361/174424057-76d96d78-f2f6-4d89-a658-54a202166bbf.gif)
+
 
  
  - https://drive.google.com/file/d/1R0c40IpKj0w7qftg1swEiE-hb-PUg2qW/view?usp=sharing
 
+![Ataf-pose-estimation](https://user-images.githubusercontent.com/32110361/174424062-a395af30-5c82-4837-9b6e-a155f4942231.gif)
+
+
  ### Animation:
    - https://drive.google.com/file/d/1XTgzZG1BckDbh1RiaLAkxQ6lxp183B-m/view?usp=sharing
+
+![hunter](https://user-images.githubusercontent.com/32110361/174424078-1ba40e00-c62a-42b7-84a8-75400611b03b.gif)
+
 
 
 
